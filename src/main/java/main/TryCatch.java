@@ -12,6 +12,7 @@ public class TryCatch {
 			
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter two values");
+		System.out.println("Checking git change");
 		
 		int a=sc.nextInt();
 		int b=sc.nextInt();
